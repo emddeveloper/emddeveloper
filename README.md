@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emddeveloper
-- 👀 I’m interested in Latest UI technology and some cool techniques. Have 7+ years experience in UI technologies like  Javascript,Jquery,Angular,Vue and ReactJS.
-- 🌱 I’m currently learning Angular 10 and React with DENO
-- 💞️ I’m looking to collaborate on Vue Angular and React
+- 👀 I’m interested in Latest UI technology and some cool techniques. Have 12+ years experience in UI technologies like  ReactJs, NextJs, Angular, Vue, Node, Java Microservices, Mongo DB, SQL, Javascript,Jquery, and many more..
+- 🌱 I’m currently working on Next Js and Mongo
+- 💞️ I’m looking to collaborate on Next, React,Angular Bulding nice products for my clients
 - 📫 How to reach me ...
 mail me :emd.developer@gmail.com
 
